@@ -1,1 +1,1 @@
-## Comment Toxixity Analysis using Deep Neural Networks
+## Comment Toxicity Analysis using Deep Neural Networks
