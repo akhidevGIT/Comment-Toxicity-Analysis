@@ -1,4 +1,3 @@
-## Comment Toxicity Analysis using Deep Neural Networks
 # Comment Toxicity Analysis Using TensorFlow and LSTM Model
 
 ## 📜 Overview
