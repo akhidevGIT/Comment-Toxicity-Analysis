@@ -41,7 +41,18 @@ The solution employs a **Deep Learning model** built using TensorFlow's Sequenti
   - Text Preprocessing: `tensorflow.keras.layers.TextVectorization`
 
 ---
+## 🔍 Key Learnings
+- Successfully applied multi-label classification using TensorFlow.
+- Learned about preprocessing text data with TextVectorization and batching with tf.data.
+- Gained hands-on experience with LSTM and Bidirectional layers for sequential data.
 
+---
+## 🚧 Future Work
+
+- Fine-tune the LSTM architecture for better accuracy in rare categories like threat and identity_hate.
+- Experiment with transformer-based architectures (e.g., BERT, RoBERTa) for enhanced performance.
+
+---
 ## 📂 File Structure
 
 ```plaintext
@@ -57,3 +68,4 @@ Comment-Toxicity-Analysis/
 │
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
+
